@@ -29,7 +29,7 @@ header {
 	color: #fff;
 	font-weight: bold;
 	text-align:left;
-	width: 10%;
+	width: 70%;
 	float: left;
 	margin-top: 15px;
 	margin-left: 25px;
@@ -113,7 +113,7 @@ ul li:hover a {
 }
 /* Achive stats */
 .stats {
-	color: #717070;
+	color: #999292;
 	margin-bottom: 5px;
 }
 .achive {
@@ -160,11 +160,12 @@ footer {
 	float: left;
 }
 footer .footer_column h3 {
-	color: #B3B3B3;
+	color: #ffffff;
+	text-shadow: rgb(7, 7, 37) 0px 0px 5px;
 	text-align: center;
 }
 footer .footer_column p {
-	color: #717070;
+	color: #161b1a;
 	background-color: #A3A3A3;
 }
 .cards {
@@ -302,7 +303,7 @@ nav ul li {
 	margin-right: 0px;
 	margin-bottom: 0px;
 	margin-left: 0px;
-	color: #043745;
+	color: #d1d5d6;
 }
 .container header nav {
 	margin-top: 0px;
